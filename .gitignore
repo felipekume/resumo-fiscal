@@ -1,0 +1,16 @@
+# Trava de segurança: nunca versionar dados reais de clientes
+# (EFDs, prints, PDFs gerados, planilhas). Só o EFD fictício de exemplo entra.
+*.txt
+!EFD-exemplo.txt
+*.pdf
+*.csv
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# arquivos do Windows
+Thumbs.db
+desktop.ini
