@@ -2,7 +2,7 @@
 
 Ferramenta em **um único arquivo HTML** para montar o **"Resumo análise"** de um estabelecimento a partir dos dados do **CADESP** e de um ou mais arquivos **EFD ICMS/IPI (SPED Fiscal)**.
 
-**Abrir online:** https://SEU-USUARIO.github.io/resumo-fiscal/
+**Abrir online:** https://fefeskk.github.io/resumo-fiscal/
 
 ## Privacidade
 
