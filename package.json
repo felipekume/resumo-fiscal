@@ -1,0 +1,13 @@
+{
+  "name": "resumo-fiscal",
+  "version": "1.0.0",
+  "description": "Resumo análise EFD ICMS/IPI",
+  "author": "Felipe Kume",
+  "main": "main.js",
+  "build": {
+    "appId": "io.github.felipekume.resumofiscal",
+    "productName": "Resumo Fiscal",
+    "files": ["main.js", "index.html"],
+    "win": { "target": "portable" }
+  }
+}
